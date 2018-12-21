@@ -1,0 +1,135 @@
+body {
+  background-color: #F0FFD1;
+}
+
+.navbar {
+  background-color: #0E0B16;
+  text-transform: uppercase;
+  color: red;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+}
+
+.navbar a {
+  text-transform: uppercase;
+  color: #E7DFDD;
+}
+
+.navbar a:hover {
+  color: #2bcbfc;
+  font-size: 25px;
+  transition: all 400ms;
+}
+iframe{
+  border:0;
+}
+.dropdown-menu {
+  background-color: #0E0B16;
+}
+
+
+
+footer ul, a:hover {
+  list-style-type: none;
+  font-size: 15px;
+  text-align: left;
+  color: white;
+}
+
+.navbar-nav li {
+  padding-right: 20px;
+}
+
+.jumbotron-gallery {
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 350px;
+  border-radius: 0px;
+  padding-top: 40px;
+  font-family: 'Playfair Display', serif;
+}
+
+.jumbotron-home {
+  background-image: linear-gradient(to right bottom, #0f040a, #361122, #620f2e, #900432, #bc002c, #cd0036, #df0040, #f1004b, #e4006e, #c70092, #940bb1, #3236c8);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 350px;
+  border-radius: 0px;
+  padding-top: 40px;
+  font-family: 'Playfair Display', serif;
+  color: white;
+}
+
+.jumbotron {
+  border-radius: 0px;
+}
+
+.slide-section {
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.nav-item {
+  color: white;
+}
+
+.carousel-inner>.carousel-item {
+  height: 500px;
+  width: 100%;
+}
+
+input[type=text], input[type=password], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #934caf;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #934caf;
+}
+
+.section-footer {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+}
+
+.contact-section {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+.section {
+  padding: 30px;
+  font-family: 'Playfair Display', serif;
+  text-align: justify;
+}
+
+footer {
+  background-color: #0E0B16;
+  color: #E7DFDD;
+  font-size: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.light {
+  background-color: #4717F6;
+}
